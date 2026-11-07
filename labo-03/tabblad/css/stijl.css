@@ -1,0 +1,14 @@
+/* stijl.css - labo 3, tabblad (reset.css is linked before this file) */
+
+/* === tokens === */
+:root {
+--zalm: #ff816f;
+--goud: #ffd500;
+background: var(--zalm);
+}
+
+/* === your rules === */
+body{margin-top:3rem;
+margin-left: 3rem;}
+
+h1{border;}
